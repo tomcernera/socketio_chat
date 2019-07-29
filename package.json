@@ -1,0 +1,24 @@
+{
+  "name": "socketio_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcernera/socketio_chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcernera/socketio_chat/issues"
+  },
+  "homepage": "https://github.com/tomcernera/socketio_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.8.6",
+    "socket.io": "^2.2.0"
+  }
+}
