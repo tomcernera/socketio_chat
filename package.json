@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tomcernera/socketio_chat#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.8.6",
     "socket.io": "^2.2.0"
   }
